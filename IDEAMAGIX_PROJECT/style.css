@@ -65,7 +65,7 @@ body {
 
 @media screen and (max-width: 1150px) {
     .small-container {
-        padding: 10px 3%;
+        padding: 7px 2%;
     }
 
 }
@@ -1058,3 +1058,4 @@ a {
         flex-direction: column;
     }
 }
+
