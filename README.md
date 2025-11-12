@@ -5,6 +5,7 @@
 A responsive and interactive **Doctor Showcase Section** built using **HTML, CSS, JavaScript (jQuery)**, and **Owl Carousel 2**.  
 This project displays a set of doctor cards in a smooth, auto-sliding carousel with navigation arrows and pagination dots.
 
+https://ideamagix-demo.netlify.app/
 ---
 
 ## 🚀 Features
